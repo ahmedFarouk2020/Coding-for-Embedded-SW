@@ -1,0 +1,14 @@
+/*
+ * device.h
+ *
+ *  Created on: Mar 31, 2022
+ *      Author: moham
+ */
+
+#ifndef INC_DEVICE_H_
+#define INC_DEVICE_H_
+
+
+unsigned char Get_Data();
+
+#endif /* INC_DEVICE_H_ */
